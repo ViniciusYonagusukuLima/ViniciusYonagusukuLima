@@ -1,6 +1,6 @@
 # Bem-vindo ao meu perfil!
 
-<img src="https://github.com/<SeuNomeDeUsuario>/path/to/your/image.jpg" alt="Imagem de Bem-vindo" width="600" />
+<img src="https://github.com/<ViniciusYonagusukuLima>/path/to/your/image.jpg" alt="Imagem de Bem-vindo" width="600" />
 
 ## Sobre mim
 
